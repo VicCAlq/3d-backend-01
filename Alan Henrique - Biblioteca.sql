@@ -1,3 +1,4 @@
+/* Tabela Turma*/
 CREATE TABLE IF NOT EXISTS  turma (
 id_turma INTEGER PRIMARY KEY AUTOINCREMENT,
 nome_turma TEXT NOT NULL,
@@ -11,6 +12,7 @@ VALUES
 ('3C', 'programação'),
 ('3D', 'programação');
 
+/* Tabela Alunos: */
 CREATE TABLE IF NOT EXISTS alunos (
     id_aluno INTEGER PRIMARY KEY AUTOINCREMENT,
     nome TEXT NOT NULL,
