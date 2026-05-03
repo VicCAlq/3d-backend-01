@@ -17,4 +17,4 @@ VALUES
 ('Ivanildo', 'Química'),
 ('Mateu Levy', 'Física'),
 ('Glauco', 'Inglês'),
-('Victor Cavalcanti', 'Programação'),;
+('Victor Cavalcanti', 'Programação');
